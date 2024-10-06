@@ -40,7 +40,7 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 </p>
 
-[![An image of @itzzadnan56's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/itzzadnan56)](https://holopin.io/@itzzadnan56)
+[![An image of @itzzadnan56's Holopin badges, which is a link to view their full Holopin profile](https://www.holopin.io/hacktoberfest2024/userbadge/cm1x1ensb151910cjzlqxosw3t)](https://holopin.io/@itzzadnan56)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itzzadnan56&show_icons=true&locale=en&layout=compact" alt="itzzadnan56" /></p>
 
