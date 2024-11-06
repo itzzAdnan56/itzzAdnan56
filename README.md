@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Several Flutter & Native Android Applications**
 
-- 👨‍💻 All of my projects are available at [https://itzzadnan56bbdeng.000webhostapp.com/#](https://itzzadnan56bbdeng.000webhostapp.com/#)
+- 👨‍💻 All of my projects are available at [https://itzzadnan56.github.io/Portfolio_Project/#](https://itzzadnan56.github.io/Portfolio_Project/#)
 
 - 📝 I write articles on [https://medium.com/@mohammadadnan5674](https://medium.com/@mohammadadnan5674)
 
